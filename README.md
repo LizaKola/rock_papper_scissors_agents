@@ -15,7 +15,7 @@
  
 
 ## РЕСУРСЫ:
-
+API(https://github.com/Kaggle/kaggle-environments/tree/master/kaggle_environments/envs/rps)
 Код Environment_example
 
 ## РЕЗУЛЬТАТЫ:
