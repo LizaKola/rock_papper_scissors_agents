@@ -17,7 +17,7 @@
 ## РЕСУРСЫ:
 [API](https://github.com/Kaggle/kaggle-environments/tree/master/kaggle_environments/envs/rps)
 
-Код Environment_example
+[Код Environment_example](https://github.com/LizaKola/rock_papper_scissors_agents/blob/main/Environment_example.ipynb)
 
 ## РЕЗУЛЬТАТЫ:
-Код Result
+Код [Result](https://github.com/LizaKola/rock_papper_scissors_agents/blob/main/Result.ipynb)
