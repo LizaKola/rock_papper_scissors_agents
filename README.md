@@ -20,4 +20,4 @@
 Код Environment_example
 
 ## РЕЗУЛЬТАТЫ:
-Код result
+Код Result
