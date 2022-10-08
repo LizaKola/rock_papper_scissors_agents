@@ -21,3 +21,4 @@
 
 ## РЕЗУЛЬТАТЫ:
 Код [Result](https://github.com/LizaKola/rock_papper_scissors_agents/blob/main/Result.ipynb)
+
