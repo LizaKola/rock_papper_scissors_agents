@@ -15,9 +15,8 @@
  
 
 ## РЕСУРСЫ:
-API
 
-Код test_agent
+Код Environment_example
 
 ## РЕЗУЛЬТАТЫ:
 Код result
